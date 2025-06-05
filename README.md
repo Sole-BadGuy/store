@@ -1,3 +1,4 @@
+# node版本 18.18.0
 # 使用 npm 安装依赖
   npm install
 # 执行编译命令
